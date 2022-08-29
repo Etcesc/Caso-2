@@ -1,6 +1,6 @@
 # Caso-2
 
-Entrega de caso 2 de la clase de Estructuras de Datos
+Entrega de caso 2 de la clase de Estructuras de Datos.
 
 En la condicion de la presente entrega se encuentra incompleta, y carece de las funciones principales que harian que funcione correctamente.
 
